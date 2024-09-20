@@ -6,14 +6,7 @@
 ---
 
 # UI Design
-## Home page
-### No address 
-![image.png](/.eraser/W9WRJGTcKWk9Hyxz7HJS___U806QwDlsSPtLlAvlCOgMCkeE3W2___kUCVFm_aKx7d8U35UrMoN.png "image.png")
-
-### Address provided
-![image.png](/.eraser/W9WRJGTcKWk9Hyxz7HJS___U806QwDlsSPtLlAvlCOgMCkeE3W2___VMt9lW1l4JixuFq7bFMuC.png "image.png")
-
-
+[﻿UX](https://app.eraser.io/workspace/W9WRJGTcKWk9Hyxz7HJS?elements=uzcPvfFNd-XOvn0fF-oDLg) 
 
 # Development
 ---
@@ -77,8 +70,6 @@ jobs:
 [﻿replit.com/@JoeJOEJOE2/citysafe](https://replit.com/@JoeJOEJOE2/citysafe) 
 
 ## Production
-
-
 
 
 
